@@ -6,7 +6,11 @@ void print()
 {
 //statement
 }
+<<<<<<< HEAD
 void m1()
+=======
+void m2()
+>>>>>>> 8e7ca5677fd70ee0f4b8844d30bc5b69e25841a5
 {
 }
 }
