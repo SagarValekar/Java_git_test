@@ -6,4 +6,7 @@ void calculation()
 {
 //logic 
 }
+  void m1()
+  {
+  }
 }
