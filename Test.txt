@@ -6,4 +6,7 @@ void print()
 {
 //statement
 }
+void m1()
+{
+}
 }
