@@ -6,4 +6,8 @@ void calculation()
 {
 //logic 
 }
+void print1()
+{
+//statement
+}
 }
