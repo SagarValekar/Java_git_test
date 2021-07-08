@@ -10,4 +10,8 @@ void calculation()
   {
 System.out.println("Testing purpose");
   }
+  void m2()
+  {
+    
+  }
 }
