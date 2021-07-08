@@ -12,6 +12,6 @@ System.out.println("Testing purpose");
   }
   void m2()
   {
-    
+    System.out.println("Test");
   }
 }
