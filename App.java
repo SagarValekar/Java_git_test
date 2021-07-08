@@ -8,5 +8,6 @@ void calculation()
 }
   void m1()
   {
+System.out.println("Testing purpose");
   }
 }
