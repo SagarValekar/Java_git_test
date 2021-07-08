@@ -9,4 +9,8 @@ void calculation()
   void m1()
   {
   }
+  void m2()
+  {
+    
+  }
 }
